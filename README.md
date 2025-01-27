@@ -12,4 +12,12 @@ Go to the official Oracle website: https://www.oracle.com/java/technologies/java
 Alternatively, you can install OpenJDK: https://openjdk.org/.
 
 ### 2. Clone the repository
-Run git clone https://github.com/LeonnR/java-equipment-borrowing-system.git
+Run: git clone https://github.com/LeonnR/java-equipment-borrowing-system.git
+
+### 3. Navigate into the project directory
+Run: cd java-equipment-borrowing-system
+
+### 4. Open in VSCode (If VSCode is your IDE)
+Run: code .
+
+
