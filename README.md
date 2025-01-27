@@ -20,4 +20,6 @@ Run: cd java-equipment-borrowing-system
 ### 4. Open in VSCode (If VSCode is your IDE)
 Run: code .
 
+### 5. Run Main.java
+
 
