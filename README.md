@@ -12,4 +12,4 @@ Go to the official Oracle website: https://www.oracle.com/java/technologies/java
 Alternatively, you can install OpenJDK: https://openjdk.org/.
 
 ### 2. Clone the repository
-
+Run git clone https://github.com/LeonnR/java-equipment-borrowing-system.git
